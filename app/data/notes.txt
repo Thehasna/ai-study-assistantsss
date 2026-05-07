@@ -1,0 +1,5 @@
+Python is a programming language.
+
+AI agents use tools to solve tasks.
+
+GitHub helps developers manage projects.
